@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SimpleStocksAssignment/1.0.0": {
+        "runtime": {
+          "SimpleStocksAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleStocksAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
